@@ -85,9 +85,41 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "abc": {
-      "api": "http://www.饭太硬.com/tv",
-      "name": "测试"
+    "huaweiba": {
+      "api": "https://hw8.live/api.php/provide/vod",
+      "name": "华为吧资源"
+    },
+    "baidu": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源"
+    },
+    "yanmao": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "猫眼资源站"
+    },
+    "danaizi": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子资源"
+    },
+    "aiqiyi": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺资源站"
+    },
+    "xb": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "杏吧资源站"
+    },
+    "wuxian": {
+      "api": "https://api.wuxianzy.net/api.php/provide/vod",
+      "name": "无线资源网"
+    },
+    "huangse": {
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "name": "黄色仓库"
+    },
+    "fengcao": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢片库"
     }
   }
 }
